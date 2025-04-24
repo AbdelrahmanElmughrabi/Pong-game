@@ -1,4 +1,4 @@
-# Python Pong Game
+# Python Pong Game (OLD)
 
 A classic Pong game implementation using Python's Turtle graphics library. This is a two-player game where players control paddles to bounce a ball back and forth.
 
